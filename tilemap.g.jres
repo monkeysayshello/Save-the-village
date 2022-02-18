@@ -510,34 +510,6 @@
         ],
         "displayName": "level24"
     },
-    "level20": {
-        "id": "level20",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAxMDAwMTAwMDAyMGQwZDA3MDEwMTAwMDEwMDAxMDAwZTAyMGQwZDA3MDMwMzAzMDgwMTAxMDAwMTAwMDEwMDBlMDMwMzAzMDgwNDBhMGEwOTAxMDEwMTAxMDAwMTAwMDEwNDBhMGEwOTBlMTExMTExMDEwMTAxMDEwMDAxMDAwMTExMTEwYjExMGYwZjBmMGYwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMjA2MDYwNzAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAzMDMwMzA4MDEwMTAxMDExMzAxMDEwMTAxMDEwMTAxMDQwYTBhMDkwMTAxMDIwZDBkMDcxMjAxMDEwYjAxMDExMTBiMDAwMDAxMDEwNTA1MDUwODEyMDEwZjAxMGYwZjAxMDEwMTAxMDEwMTA0MGEwYTA5MTIwMDAyMDYwNjA3MTAwMTAxMDEwMTAxMTExMTExMTEwMTAwMDMwNTA1MDgwMTBmMGYwZjBmMDEwMTAxMDEwMTAxMDAwNDBhMGEwOTAxMDIwNjA2MDcxMjAxMDEwMTAxMDAwMDExMTExMTExMDEwMzAzMDMwODEyMDEwMTAxMDEwMDAxMGYwYjBmMGYwMTA0MGEwYTA5MTIwMTBiMDEwMTAwMGMwMjA2MDYwNzBmMGYwYjBmMGYwZjBmMGYwZjBmMGYwZjAzMDMwMzA4MjIyMjAwMDAwMDIwMjIyMjIyMjIwMDAwMDAyMDIyMjIyMjIyMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMjIyMjAwMDAwMDAwMDAwMDIyMjIwMDIyMjIwMDAwMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMjIyMjAwMjIyMjAwMDAwMDAwMDAwMDIyMjIwMDAwMDAwMDAwMDAyMjIyMjAyMjAyMDAwMDAwMDAwMDIwMjIwMjAwMDAwMDAwMDAyMDIyMDIwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMjIyMg==",
-        "tileset": [
-            "myTiles.transparency16",
-            "myTiles.tile7",
-            "sprites.builtin.oceanSand5",
-            "sprites.builtin.oceanSand9",
-            "sprites.builtin.oceanSand13",
-            "sprites.builtin.oceanSand8",
-            "sprites.builtin.oceanSand6",
-            "sprites.builtin.oceanSand7",
-            "sprites.builtin.oceanSand11",
-            "sprites.builtin.oceanSand15",
-            "sprites.builtin.oceanSand14",
-            "sprites.dungeon.collectibleBlueCrystal",
-            "sprites.builtin.coral2",
-            "sprites.builtin.oceanSand2",
-            "sprites.builtin.coral1",
-            "myTiles.tile21",
-            "myTiles.tile22",
-            "myTiles.tile23",
-            "myTiles.tile24",
-            "sprites.dungeon.collectibleRedCrystal"
-        ],
-        "displayName": "level20"
-    },
     "level18": {
         "id": "level18",
         "mimeType": "application/mkcd-tilemap",
@@ -653,6 +625,43 @@
             "sprites.dungeon.darkGroundSouthEast1"
         ],
         "displayName": "level2"
+    },
+    "level20": {
+        "id": "level20",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMGQwZDA3MDEwMTAxMDEwMTAxMDEwZTAyMGQwZDA3MDMwMzAzMDgwMTAxMDEwMTAxMDEwMTBlMDMwMzAzMDgwNDBhMGEwOTAxMDEwMTAxMDEwMTAxMDEwNDBhMGEwOTBlMTExMTExMDEwMTAxMDEwMTAxMDEwMTExMTEwYjExMGYwZjBmMGYwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMjA2MDYwNzAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAzMDMwMzA4MDEwMTAxMDExMzAxMDEwMTAxMDEwMTAxMDQwYTBhMDkwMTAxMDIwZDBkMDcxMjAxMDEwYjAxMDExMTBiMDEwMTAxMDEwNTA1MDUwODEyMDEwZjAxMGYwZjAxMDEwMTAxMDEwMTA0MGEwYTA5MTIwMTAyMDYwNjA3MTAwMTAxMDEwMTAxMTExMTExMTEwMTAxMDMwNTA1MDgwMTBmMGYwZjBmMDEwMTAxMDEwMTAxMDEwNDBhMGEwOTAxMDIwNjA2MDcxMjAxMDEwMTAxMDEwMTExMTExMTExMDEwMzAzMDMwODEyMDEwMTAxMDEwMTAxMGYwYjBmMGYwMTA0MGEwYTA5MTIwMTBiMDEwMTAxMGMwMjA2MDYwNzBmMGYwYjBmMGYwZjBmMGYwZjBmMGYwZjAzMDMwMzA4MjIyMjAwMDAwMDIwMjIyMjIyMjIwMDAwMDAyMDIyMjIyMjIyMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMjIyMjAwMDAwMDAwMDAwMDIyMjIwMDIyMjIwMDAwMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMjIyMjAwMjIyMjAwMDAwMDAwMDAwMDIyMjIwMDAwMDAwMDAwMDAyMjIyMjAyMjAyMDAwMDAwMDAwMDIwMjIwMjAwMDAwMDAwMDAyMDIyMDIwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile7",
+            "sprites.builtin.oceanSand5",
+            "sprites.builtin.oceanSand9",
+            "sprites.builtin.oceanSand13",
+            "sprites.builtin.oceanSand8",
+            "sprites.builtin.oceanSand6",
+            "sprites.builtin.oceanSand7",
+            "sprites.builtin.oceanSand11",
+            "sprites.builtin.oceanSand15",
+            "sprites.builtin.oceanSand14",
+            "sprites.dungeon.collectibleBlueCrystal",
+            "sprites.builtin.coral2",
+            "sprites.builtin.oceanSand2",
+            "sprites.builtin.coral1",
+            "myTiles.tile21",
+            "myTiles.tile22",
+            "myTiles.tile23",
+            "myTiles.tile24",
+            "sprites.dungeon.collectibleRedCrystal"
+        ],
+        "displayName": "level20"
+    },
+    "level28": {
+        "id": "level28",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16"
+        ],
+        "displayName": "level28"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
